@@ -95,7 +95,7 @@ Search results for 'Cuphead 2017': 10.44,15.88,26.05,15.22
 
 ## License
 
-This project is open source and available under the MIT License.
+This project is open source and available under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
