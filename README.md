@@ -29,7 +29,7 @@ My hope is that this helps you rediscover the joy in your game library. Stop fee
 Install the required Python packages:
 
 ```bash
-pip install howlongtobeatpy pandas
+pip install -r requirements.txt
 ```
 
 ## Usage
